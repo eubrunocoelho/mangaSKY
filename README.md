@@ -8,6 +8,10 @@
 * Capítulos recém adicionados
 * Ranking
 
+#### Cabeçalho
+* Menu de navegação
+* Caixa de pesquisa de mangás
+
 #### Lista de mangás
 * Filtrar conteúdo por letras
 * Filtrar conteúdo por gêneros
