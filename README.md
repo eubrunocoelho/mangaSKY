@@ -47,6 +47,39 @@
 * Compartilhamento com redes sociais
 * Comentários
 
+### Tecnologias
+
+### `Front-END`
+
+#### Contrução do site
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [jQuery](https://jquery.com)
+
+#### Estilização
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Sass/SCSS](https://sass-lang.com)
+* [FontAwesome](https://fontawesome.com)
+
+### IDEs, versionamento
+* [Visual Studio Code](https://code.visualstudio.com)
+* [Git](https://git-scm.com)
+* [GitHub](https://github.com)
+
+### `Back-END`
+
+### Construção do site
+* [PHP 8.2](https://www.php.net)
+* [Laravel 10](https://laravel.com)
+
+### Banco de dados
+* [MySQL 5.7](https://mysql.com)
+
+### IDEs, versionamento
+* [Visual Studio Code](https://code.visualstudio.com)
+* [Git](https://git-scm.com)
+* [GitHub](https://github.com)
+
 ## fireCMS
 
 ### Sistema
@@ -173,3 +206,18 @@
 #### `Excluir gênero`
 * `Feedback` do gênero
 * Confirmação para exclusão do gênero
+
+### Tecnologias
+
+### Construção do site
+* [Nazox (Theme)](https://themeforest.net/item/nazox-admin-dashboard-template/26819788)
+* [PHP 8.2](https://www.php.net)
+* [Laravel 10](https://laravel.com)
+
+### Banco de dados
+* [MySQL 5.7](https://mysql.com)
+
+### IDEs, versionamento
+* [Visual Studio Code](https://code.visualstudio.com)
+* [Git](https://git-scm.com)
+* [GitHub](https://github.com)
