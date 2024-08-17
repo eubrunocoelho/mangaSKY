@@ -1,6 +1,23 @@
-## mangaSKY
+# **Sumário**
 
-### Mapa do site
+## **mangaSKY**
+* [Sobre o mangaSKY](#mangasky)
+* [Mapa do site](#sitemap_mangasky)
+* [Tecnologias](#technologies_mangasky)
+    * [Front-end](#technologies_frontend_mangasky)
+        * [Construção do site](#build_frontend_mangasky)
+        * [Estilização](#style_frontend_mangasky)
+        * [IDEs, versionamento](#tools_frontend_mangasky)
+    * [Back-end](#technologies_backend_mangasky)
+        * [Construção do site](#build_backend_mangasky)
+        * [Banco de dados](#database_backend_mangasky)
+        * [IDEs, versionamento](#tools_backend_mangasky)
+
+<span id="mangasky"></span>
+## **Sobre o mangaSKY**
+
+<span id="sitemap_mangasky"></span>
+### **Mapa do site**
 
 #### Página inicial
 * Caixa de pesquisa de mangás
@@ -47,34 +64,43 @@
 * Compartilhamento com redes sociais
 * Comentários
 
-### Tecnologias
+<span id="technologies_mangasky"></span>
+### **Tecnologias**
 
-### `Front-END`
+<span id="technologies_frontend_mangasky"></span>
+### `Front-end`
 
-#### Contrução do site
+<span id="build_frontend_mangasky"></span>
+#### Construção do site
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [jQuery](https://jquery.com)
 
+<span id="style_frontend_mangasky"></span>
 #### Estilização
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Sass/SCSS](https://sass-lang.com)
 * [FontAwesome](https://fontawesome.com)
 
+<span id="tools_frontend_mangasky"></span>
 ### IDEs, versionamento
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Git](https://git-scm.com)
 * [GitHub](https://github.com)
 
-### `Back-END`
+<span id="technologies_backend_mangasky"><span>
+### `Back-end`
 
+<span id="build_backend_mangasky"><span>
 ### Construção do site
 * [PHP 8.2](https://www.php.net)
 * [Laravel 10](https://laravel.com)
 
+<span id="database_backend_mangasky"><span>
 ### Banco de dados
 * [MySQL 5.7](https://mysql.com)
 
+<span id="tools_backend_mangasky"><span>
 ### IDEs, versionamento
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Git](https://git-scm.com)
