@@ -29,7 +29,7 @@
 
 <span id="screenshot_mangasky"></span>
 ### **`Screenshot`**
-<img src="./.github/screenshot.png">
+<h1 align="center"><img src="./.github/screenshot.png" style="width: 80%;"></h1>
 
 <span id="api_mangasky"></span>
 ### **API**
