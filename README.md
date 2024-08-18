@@ -1,7 +1,8 @@
 # **Sumário**
 
 ## **mangaSKY**
-* [Sobre o mangaSKY](#mangasky)
+* [Sobre o mangaSKY](#about_mangasky)
+* [API](#api_mangasky)
 * [Mapa do site](#sitemap_mangasky)
 * [Tecnologias](#technologies_mangasky)
     * [Front-end](#technologies_frontend_mangasky)
@@ -13,8 +14,22 @@
         * [Banco de dados](#database_backend_mangasky)
         * [IDEs, versionamento](#tools_backend_mangasky)
 
-<span id="mangasky"></span>
-## **Sobre o mangaSKY**
+## **fireCMS**
+* [Sobre o fireCMS](#about_firecms)
+* [Sistema](#system_firecms)
+* [Mapa do site](#sitemap_firecms)
+* [Tecnologias](#technologies_firecms)
+    * [Construção do site](#build_firecms)
+    * [Banco de dados](#database_firecms)
+    * [IDEs, versionamento](#tools_firecms)
+
+<span id="about_mangasky"></span>
+### **Sobre o mangaSKY**
+
+<span id="api_mangasky"></span>
+### **API**
+* Mangás em destaque (Dia/Semana/Mês/Ano)
+* Capítulos recém adicionados
 
 <span id="sitemap_mangasky"></span>
 ### **Mapa do site**
@@ -106,16 +121,19 @@
 * [Git](https://git-scm.com)
 * [GitHub](https://github.com)
 
-## fireCMS
+<span id="about_firecms"></span>
+## **Sobre o fireCMS**
 
-### Sistema
+<span id="system_firecms"></span>
+### **Sistema**
 * Níveis de acesso para usuários
     * Estagiário
     * Uploader
     * Administrador
 * Usuários inativos não podem acessar o `dashboard`
 
-### Mapa do site
+<span id="sitemap_firecms"></span>
+### **Mapa do site**
 
 #### Página de autenticação
 * Formulário de autenticação
@@ -195,6 +213,14 @@
 * `Feedback` do capítulo
 * Confirmação para exclusão do capítulo
 
+#### `Adicionar páginas`
+* Informações do capítulo
+* Formulário para adicionar
+
+#### `Excluir páginas`
+* `Feedback` do capítulo
+* Confirmação para exclusão das páginas
+
 #### Tipos
 
 #### `Lista de tipos`
@@ -233,16 +259,20 @@
 * `Feedback` do gênero
 * Confirmação para exclusão do gênero
 
-### Tecnologias
+<span id="technologies_firecms"></span>
+### **Tecnologias**
 
+<span id="build_firecms"></span>
 ### Construção do site
 * [Nazox (Theme)](https://themeforest.net/item/nazox-admin-dashboard-template/26819788)
 * [PHP 8.2](https://www.php.net)
 * [Laravel 10](https://laravel.com)
 
+<span id="database_firecms"></span>
 ### Banco de dados
 * [MySQL 5.7](https://mysql.com)
 
+<span id="tools_firecms"></span>
 ### IDEs, versionamento
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Git](https://git-scm.com)
