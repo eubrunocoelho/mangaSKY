@@ -2,6 +2,7 @@
 
 ## **mangaSKY**
 * [Sobre o mangaSKY](#about_mangasky)
+* [Screenshot](#screenshot_mangasky)
 * [API](#api_mangasky)
 * [Mapa do site](#sitemap_mangasky)
 * [Tecnologias](#technologies_mangasky)
@@ -25,6 +26,10 @@
 
 <span id="about_mangasky"></span>
 ### **Sobre o mangaSKY**
+
+<span id="screenshot_mangasky"></span>
+### **`Screenshot`**
+<img src="./.github/screenshot.png">
 
 <span id="api_mangasky"></span>
 ### **API**
