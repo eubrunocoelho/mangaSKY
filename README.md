@@ -1,6 +1,9 @@
 # **Demonstração**
 * [Demonstração](https://www.youtube.com/watch?v=Xzu5dm_pWH8)
 
+<hr />
+<p><i>Para adquirir entre em <a href="#contact">contato</a>.</i></p>
+
 # **Sumário**
 
 ## **mangaSKY**
@@ -287,3 +290,10 @@
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Git](https://git-scm.com)
 * [GitHub](https://github.com)
+
+<span id="contact"></span>
+## Contato
+* **E-mail:** 
+    * *eu.brunocoelho94@gmail.com*
+* **WhatsApp:** 
+    * *(41) 98738-9397 (somente texto)*
