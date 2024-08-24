@@ -1,3 +1,6 @@
+# **Demonstração**
+* [Demonstração](https://www.youtube.com/watch?v=Xzu5dm_pWH8)
+
 # **Sumário**
 
 ## **mangaSKY**
@@ -15,8 +18,8 @@
         * [Banco de dados](#database_backend_mangasky)
         * [IDEs, versionamento](#tools_backend_mangasky)
 
-## **fireCMS**
-* [Sobre o fireCMS](#about_firecms)
+## **FireCMS**
+* [Sobre o FireCMS](#about_firecms)
 * [Sistema](#system_firecms)
 * [Mapa do site](#sitemap_firecms)
 * [Tecnologias](#technologies_firecms)
@@ -26,6 +29,7 @@
 
 <span id="about_mangasky"></span>
 ### **Sobre o mangaSKY**
+<p>O mangaSKY é uma plataforma tecnológica de ponta, construída com o objetivo de revolucionar a forma como os mangás são consumidos. Através de um sistema de filtragem e busca avançado, aliado a um design moderno e intuitivo, o mangaSKY oferece uma experiência de leitura única e personalizada. A plataforma utiliza as mais recentes tecnologias para garantir a melhor qualidade de imagem e um carregamento rápido das páginas, proporcionando uma experiência fluida e sem interrupções.</p>
 
 <span id="screenshot_mangasky"></span>
 ### **`Screenshot`**
@@ -127,7 +131,8 @@
 * [GitHub](https://github.com)
 
 <span id="about_firecms"></span>
-## **Sobre o fireCMS**
+## **Sobre o FireCMS**
+<p>O FireCMS é uma plataforma de gerenciamento de conteúdo intuitiva e poderosa, projetada especificamente para administrar sites de leitura de quadrinhos. Com o FireCMS, você pode facilmente gerenciar usuários, adicionar obras, capítulos e páginas, além de organizar seus conteúdos por gêneros e categorias. Sua interface amigável e sistema de banco de dados robusto eliminam a necessidade de conhecimentos em programação, permitindo que você se concentre em criar e manter um site de alta qualidade.</p>
 
 <span id="system_firecms"></span>
 ### **Sistema**
